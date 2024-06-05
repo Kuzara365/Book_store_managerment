@@ -12,7 +12,7 @@ import demo.Funtion.Request;
 import demo.Funtion.Print;
 import demo.workwithfile.SaveToFile;
 
-public class UserManagement {
+public class AccountStorage {
   
     public static void main(String[] args) {       
         ArrayList<String> array = new ArrayList<>();
