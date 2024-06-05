@@ -1,6 +1,5 @@
 package demo.controller;
 
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
