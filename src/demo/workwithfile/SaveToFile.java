@@ -1,10 +1,5 @@
 package demo.workwithfile;
 
-/**
- *
- * @author tranhuy
- */
-
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
